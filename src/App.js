@@ -1,4 +1,4 @@
-import Counter from './Counter1'
+import Counter from './Counter'
 function App(){
   return(
 
