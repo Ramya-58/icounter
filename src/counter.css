@@ -1,0 +1,28 @@
+*{
+    background-color:pink;
+    margin:0;
+}
+
+.container{
+    color:black
+
+}
+button{
+    width: 250px;
+    height: 60px;
+    background-color: rgb(251, 255, 240);
+    cursor: pointer;
+    color: blue;
+    font-size: 1;
+    border: none;
+
+}
+
+.btn_container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+    row-gap: 10px;
+}
